@@ -1,8 +1,5 @@
-.idea/vcs.xml
-code/.idea
+.idea/
 __pycache__
 *.pyc
-.idea/
 data/
 log/
-test/
