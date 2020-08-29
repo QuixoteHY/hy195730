@@ -1,4 +1,5 @@
 .idea/vcs.xml
+code/.idea
 __pycache__
 *.pyc
 .idea/
