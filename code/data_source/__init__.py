@@ -4,3 +4,9 @@
 # @Github   : https://github.com/QuixoteHY
 # @Email    : quixotehy@qq.com
 # @Describe :
+
+from data_source.tushare import download_trade_calendar
+
+
+__all__ = [download_trade_calendar]
+
